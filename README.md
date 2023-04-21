@@ -3,7 +3,7 @@ This is a python3 project that converts some annotations of the [ELITR Minuting 
 
 The processed corpora can be directly downloaded from [here](https://drive.google.com/drive/folders/1YnhWBOTKeFicrAvZl_4z-VI4Dl3lECN_?usp=sharing) (last update 21/04/2023).
 
-Click ▶ in below to see example and explication of each annotation.
+Click ► in below to see example and explication of each annotation.
 
 If you want to run the code yourself, please follow the following instructions.
 
