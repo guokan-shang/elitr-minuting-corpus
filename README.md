@@ -41,8 +41,6 @@ The ID numbers are shuffled and unique for each meeting, i.e. PERSON1 denotes th
 
 `problem` denotes problematic or interesting properties of the utterance, e.g., ["1","None"] means there are two annotators, the first one thinks this utterance relates to organizational talk, and the second one find it contains no problematic or interesting properties. `problem` can be empty `[]`.
 
-`text`, entities are enclosed in square brackets, of types: PERSON, ORGANIZATION, PROJECT, LOCATION, ANNOTATOR, URL, NUMBER, PASSWORD, PHONE, PATH, EMAIL, OTHER.
-
 ```
 1 - Organizational
     Organizational talk not directly related to the subject of the meeting
@@ -58,6 +56,8 @@ The ID numbers are shuffled and unique for each meeting, i.e. PERSON1 denotes th
 ```
 
 ```
+The text can contain entities, which are enclosed in square brackets, of types: PERSON, ORGANIZATION, PROJECT, LOCATION, ANNOTATOR, URL, NUMBER, PASSWORD, PHONE, PATH, EMAIL, OTHER.
+
 The transcript data also contains the following tags:
 
 <another_language>...</another_language> or <another_language/>
