@@ -56,7 +56,9 @@ The ID numbers are shuffled and unique for each meeting, i.e. PERSON1 denotes th
 ```
 
 ```
-The text can contain entities, which are enclosed in square brackets, of types: PERSON, ORGANIZATION, PROJECT, LOCATION, ANNOTATOR, URL, NUMBER, PASSWORD, PHONE, PATH, EMAIL, OTHER.
+The text can contain entities, which are enclosed in square brackets, of types: 
+PERSON, ORGANIZATION, PROJECT, LOCATION, ANNOTATOR, URL, 
+NUMBER, PASSWORD, PHONE, PATH, EMAIL, OTHER.
 
 The transcript data also contains the following tags:
 
