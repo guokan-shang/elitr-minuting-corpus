@@ -7,7 +7,7 @@ Click ► in below to see example and explication of each annotation.
 
 If you want to run the code yourself, please follow the following instructions.
 
-1. Extract [ELITR Minuting Corpus (ELITR-minuting-corpus.zip)](http://groups.inf.ed.ac.uk/ami/download/) under `input/ELITR-minuting-corpus`.
+1. Extract [ELITR Minuting Corpus (ELITR-minuting-corpus.zip)](http://hdl.handle.net/11234/1-4692) under `input/ELITR-minuting-corpus`.
 
 2. Run the following Python scripts to obtain respective annotations in JSON format under `output/`.
 
